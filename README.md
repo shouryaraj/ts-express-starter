@@ -1,3 +1,5 @@
+<p align='center'><img src="https://github.com/shouryaraj/ts-express-starter/blob/main/comic-1302162_1280.png" alt="Cool Banner"  height="200" /> </p>
+
 # TypeScript Express Base - Open-Source Starter Kit
 
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.17.0-brightgreen)
@@ -23,10 +25,10 @@ Follow these steps to use this starter kit for your project:
 
 1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/typescript-express-base.git your-app-name
-   cd your-app-name
-   ```
+```
+git clone https://github.com/yourusername/typescript-express-base.git your-app-name
+cd your-app-name
+```
 
 
 2. **Install Dependecy**:
@@ -35,12 +37,12 @@ Use your preferred package manager to install project dependencies.
 
 Using npm:
 
-   ```bash
+   ```
    npm install
    ```
 
 Using Yarn:
-   ```bash
+   ```
    yarn
    ```
 
@@ -58,30 +60,31 @@ Customize ESLint and Prettier configurations in .eslintrc.js and .prettierrc.js,
 
 Using npm:
 
-```
-    npm run start:dev
-```
+   ```
+   npm run start:dev
+   ```
 Using Yarn:
 
-```  
-    yarn start:dev
-```
+   ```  
+   yarn start:dev
+   ```
 
 
 * For production:
 
 Using npm:
-```
-    npm run start:prod
-```
+
+   ```
+   npm run start:prod
+   ```
 
 
 
 Using Yarn:
 
-```
-    yarn start:prod
-```
+   ```
+   yarn start:prod
+   ```
 
 4. **Access Your Application**:
 
