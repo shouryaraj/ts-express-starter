@@ -1,6 +1,6 @@
 <p align='center'><img src="https://github.com/shouryaraj/ts-express-starter/blob/main/comic-1302162_1280.png" alt="Cool Banner"  height="200" /> </p>
 
-# TypeScript Express Base - Open-Source Starter Kit
+# TypeScript Express Base - Starter Kit
 
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.17.0-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%3E%3D4.1.0-blue)
