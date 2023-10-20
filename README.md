@@ -3,7 +3,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.17.0-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%3E%3D4.1.0-blue)
 ![Express](https://img.shields.io/badge/Express-%5E4.17.1-green)
-![License](https://img.shields.io/badge/License-ISC-blue)
 
 **TypeScript Express Base** is an open-source starter kit for building web applications with TypeScript and Express.js. It provides a solid foundation for creating RESTful APIs or web services with robust and maintainable code.
 
@@ -28,3 +27,74 @@ Follow these steps to use this starter kit for your project:
    git clone https://github.com/yourusername/typescript-express-base.git your-app-name
    cd your-app-name
    ```
+
+
+2. **Install Dependecy**:
+
+Use your preferred package manager to install project dependencies.
+
+Using npm:
+
+   ```bash
+   npm install
+   ```
+
+Using Yarn:
+   ```bash
+   yarn
+   ```
+
+
+
+3. **Configuration**:
+
+Create a .env file in the root directory to set your environment-specific variables.
+Customize ESLint and Prettier configurations in .eslintrc.js and .prettierrc.js, respectively, as needed.
+
+
+4. **Start the Application**:
+
+* For development:
+
+Using npm:
+
+```
+    npm run start:dev
+```
+Using Yarn:
+
+```  
+    yarn start:dev
+```
+
+
+* For production:
+
+Using npm:
+```
+    npm run start:prod
+```
+
+
+
+Using Yarn:
+
+```
+    yarn start:prod
+```
+
+4. **Access Your Application**:
+
+Visit http://localhost:3000/health in your browser, and you'll see "Hello, Express app is healthy!" if everything is set up correctly.
+
+## Author
+
+[Bugdebugger](https://github.com/shouryaraj)
+
+
+## Acknowledgments
+- Express.js
+- TypeScript
+- Prettier
+- ESLint
+- dotenv
